@@ -1,0 +1,13 @@
+nav{
+    background-color:#156064;
+}
+.navbar-brand{
+    color:#DCDCDD;
+    font-size:x-large;
+}
+.nav-link-active{
+    color:#DCDCDD
+}
+.nav-item .nav-link{
+    color:#DCDCDD
+}
